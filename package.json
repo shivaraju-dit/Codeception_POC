@@ -1,0 +1,24 @@
+{
+  "name": "Codeception_POC",
+  "version": "1.0.0",
+  "description": "CodeceptJS is a testing framework. But unlike other testing tools for JavaScript, it uses most popular JS libraries to drive your browser and adds high-level API on top of them.CodeceptJS is a Meta Test framework with various helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaraju-dit/Codeception_POC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivaraju-dit/Codeception_POC/issues"
+  },
+  "homepage": "https://github.com/shivaraju-dit/Codeception_POC#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.0.2",
+    "puppeteer": "^5.5.0"
+  }
+}
