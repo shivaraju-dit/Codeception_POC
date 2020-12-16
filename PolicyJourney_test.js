@@ -1,6 +1,6 @@
 Feature('PolicyJourney');
 
-Scenario('test something', ({ I }) => {
+Scenario('Buy a Policy', ({ I }) => {
     I.amOnPage('/ux1/review');
     I.see('Protected NCD', '[data-qa="pncd"]');
     I.see('We will protect your 13 years no claims discount', '[data-qa="pncd"]~p');
